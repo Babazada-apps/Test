@@ -1,0 +1,6 @@
+{
+  "name": "Uçuş İstismarı üzrə Təlimat – Test",
+  "description": "Uçuş İstismarı üzrə Təlimat fənnindən offline test, imtahan, statistika, seçilmişlər və axtarış tətbiqi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
